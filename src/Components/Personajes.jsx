@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./styles.css"
 const Personajes = ({personaje}) => {
     const {name, species, image,gender, status}=personaje
   return (
