@@ -1,0 +1,7 @@
+*********use effect*******
+El Hook de efecto te permite llevar a cabo efectos secundarios en componentes funcionales.
+Peticiones de datos, establecimiento de suscripciones y
+ actualizaciones manuales del DOM en componentes de React 
+ serían ejemplos de efectos secundarios.
+
+ efectos sin saneamiento 

@@ -1,0 +1,9 @@
+body{
+    background-image: url(assets/back.webp);
+}
+.title{
+    color: azure;
+}
+input{
+    background: rgba(199, 196, 196, 0.959);
+}
