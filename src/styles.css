@@ -1,6 +1,6 @@
 body{
-    background-image: url(assets/back.webp);
+    background: linear-gradient(90deg, rgba(11,22,41,1) 15%, rgba(18,37,67,1) 33%, rgba(140,196,223,1) 71%);
 }
 .title{
-    color: azure;
+    color: #e3ff65;
 }
